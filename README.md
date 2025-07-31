@@ -1,41 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h3 align="center">🚀 Web Developer | 📚 Lifelong Learner | 💡 Tech Explorer</h3>
 
-<h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate web developer and learner from India 🇮🇳</h3>
-
-- 🔭 I’m currently working on **SkillSwap - A skill exchange platform**
-
-- 🌱 I’m currently learning **Next.js, MongoDB, and full-stack development**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
-
-- 💬 Ask me about **React, Node.js, Express, MongoDB, or anything tech!**
-
-- 📫 How to reach me: **youremail@example.com**
-
-- ⚡ Fun fact: *I started coding at 17 and love building side projects!*
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=I+love+building+cool+stuff;I+write+clean+and+efficient+code;Always+curious+to+learn+more!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🔥 About Me
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 🎓 I’m a **[Your College Year/Branch]** student with a passion for **web & software development**  
+- 💼 Currently working on **SkillSwap** – a full-stack peer-to-peer skill exchange platform  
+- 🌱 Learning **Next.js**, **Tailwind CSS**, and **MERN stack**  
+- 🧠 Exploring **open-source**, system design, and real-world project building  
+- 🕹️ Fun fact: I break stuff just to fix it better 😉
 
 ---
 
-### 🌐 Connect with me:
+### 💻 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram)](https://instagram.com/yourhandle)
+```bash
+Languages     : JavaScript, HTML5, CSS3, C++
+Frontend      : React, Next.js, Tailwind CSS, Bootstrap
+Backend       : Node.js, Express.js
+Database      : MongoDB, Firebase
+Tools & Other : Git, GitHub, VS Code, Postman
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" width="48%" /> </p>
+🌐 Connect With Me
+<p align="left"> <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
+🧠 Quote I Believe In
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
