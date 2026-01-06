@@ -41,34 +41,43 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-```yaml
-name: Kiran Dekaliya
-located_in: Gujarat, India 🇮🇳
-current_role: Full Stack Developer
-education: ["CodingGita", "Rai University"]
-year: 2nd Year Student
+```markdown
+## 👨‍💻 About Me
 
-technical_focus:
-  - Web Development (MERN Stack)
-  - Data Structures & Algorithms
-  - System Design Fundamentals
-  - Open Source Contribution
+👋 Hi, I'm **Kiran Dekaliya**, a passionate **Full Stack Developer** from **Gujarat, India 🇮🇳**.
 
-current_projects:
-  - name: SkillSwap
-    description: P2P skill exchange platform
-    tech_stack: [React, Node.js, MongoDB, Express]
-    status: In Development 🚧
+🎓 **Education**
+- CodingGita
+- Rai University (2nd Year Student)
 
-achievements:
-  leetcode: 100+ Problems Solved ✅
-  github: Active Contributor 💻
-  goal: Land a Full Stack Internship 🎯
+💻 **Technical Focus**
+- MERN Stack Web Development
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Open Source Contributions
 
-interests: ["Problem Solving", "Building Products", "Learning New Tech"]
-fun_fact: "I think semicolons are optional... until they're not 😅"
-available_for: ["Internships", "Collaborations", "Open Source"]
-```
+🚀 **Current Project**
+**SkillSwap** – A peer-to-peer skill exchange platform  
+**Tech Stack:** React, Node.js, MongoDB, Express  
+**Status:** In Development 🚧
+
+🏆 **Achievements**
+- Solved **100+ LeetCode problems**
+- Active GitHub contributor
+- Goal: Crack a **Full Stack Internship** 🎯
+
+💡 **Interests**
+- Problem Solving
+- Building Real-world Products
+- Exploring New Technologies
+
+😄 **Fun Fact**
+> I think semicolons are optional… until they’re not 😅
+
+🤝 **Available For**
+- Internships
+- Collaborations
+- Open Source Contributions 
 
 <br clear="right"/>
 
