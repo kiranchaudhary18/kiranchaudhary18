@@ -67,12 +67,10 @@ achievements:
 
 interests: ["Problem Solving", "Building Products", "Learning New Tech"]
 fun_fact: "I think semicolons are optional... until they're not 😅"
-available_for: ["Internships", "Collaborations", "Open Source"]```
-
+available_for: ["Internships", "Collaborations", "Open Source"]
+```
 
 <br clear="right"/>
-
----
 
 <!-- LeetCode Section with Animations -->
 <div align="center">
