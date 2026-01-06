@@ -41,8 +41,7 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-```markdown
-## 👨‍💻 About Me
+
 
 👋 Hi, I'm **Kiran Dekaliya**, a passionate **Full Stack Developer** from **Gujarat, India 🇮🇳**.
 
@@ -235,31 +234,31 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 SkillSwap Platform
+### 🤝 Tattoo Studio Website
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 **Full-Stack MERN Application**
 
 - 🔐 JWT Authentication & Authorization
-- 💬 Real-time Chat Integration
+- 💬 Tattoo Booking
 - 🎯 Skill Matching Algorithm
 - 📱 Fully Responsive Design
 
-**Tech:** React • Node.js • MongoDB • Express • Socket.io
+**Tech:** React • Node.js • MongoDB • Express 
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Portfolio Website
+### 🎨 Ecommerce Website
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
-**Modern Personal Portfolio**
+**Full-Stack MERN Application**
 
 - ✨ Smooth Animations (Framer Motion)
-- 🌙 Dark/Light Theme Toggle
-- 📊 Dynamic Project Showcase
+-    Payment Method
+- 📊 Admin Panel
 - 📱 Mobile-First Design
 
 **Tech:** React • Tailwind CSS • Framer Motion
