@@ -150,14 +150,7 @@ Goal       : Crack a Full Stack Developer Internship 🎯
 
 ---
 
-## 🎯 2025 Goals
 
-- [ ] 🔥 Solve **500+ LeetCode** Problems
-- [ ] 🚀 Build **5+ Production-Level** Projects
-- [ ] 💼 Crack a **Full Stack Developer Internship**
-- [ ] 📚 Master **System Design** Fundamentals
-
----
 
 ## ⚡ Fun Fact
 
