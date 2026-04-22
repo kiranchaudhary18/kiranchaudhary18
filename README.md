@@ -31,8 +31,7 @@
 ```yaml
 Name       : Kiran Dekaliya
 Role       : Full Stack Developer (MERN + React Native)
-Education  : B.Tech CSE @ Rai University (2nd Year)
-Training   : Full Stack Development @ CodingGita
+Education  : B.Tech CSE @ Rai University X CodingGita
 LeetCode   : 329+ Problems Solved
 Strengths  : DSA | REST APIs | Scalable Architecture
 Goal       : Crack a Full Stack Developer Internship 🎯
@@ -40,14 +39,7 @@ Goal       : Crack a Full Stack Developer Internship 🎯
 
 ---
 
-## 🎓 Education
 
-| Institution | Degree | Status |
-|---|---|---|
-| 🏫 **Rai University** | B.Tech — Computer Science Engineering | 2nd Year (Ongoing) |
-| 💻 **CodingGita** | Full Stack Development Training | Completed |
-
----
 
 ## ⚡ Tech Stack
 
